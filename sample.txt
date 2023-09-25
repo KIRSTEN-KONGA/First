@@ -1,0 +1,2 @@
+Hello this is sample file I'm learning git.
+This is modified to check if it is working or not.
